@@ -1,2 +1,4 @@
 # crab_detection
-- Image recognition
+- Task: Image recognition
+- Tools: Python (OpenCV)
+- Expected Output: Color and shape of the crabs
